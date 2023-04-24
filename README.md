@@ -5,27 +5,27 @@ The project uses modern front-end technologies such as react hooks, react redux,
 How to start the project:
 🚀 Quick start
 
-1. npm install
+## 1. npm install
 
   install dependency the project needs
 
-2. cd /db
+## 2. cd /db
 
   navigate into database's folder
 
-3. npm install -g json-server
+## 3. npm install -g json-server
 
   install JSON Server
 
-4. json-server --watch db.json -port 3000
+## 4. json-server --watch db.json -port 3000
 
   Start JSON Server
 
-5. cd ../
+## 5. cd ../
 
   navigate into project folder
 
-6. npm run start
+## 6. npm run start
 
   Runs the app and open it to view in the browser.
 
